@@ -1,4 +1,4 @@
-Sentiment Analysis Project
+# Sentiment Analysis Project
 This project is part of the final requirements for the Building AI course.
 
 Summary
