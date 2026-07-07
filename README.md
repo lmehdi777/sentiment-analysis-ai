@@ -1,6 +1,7 @@
 # Sentiment Analysis Project
-This project is part of the final requirements for the Building AI course.
+
 ## Summary
+Building AI course project: This project builds an AI model that automatically classifies text comments as "Positive" or "Negative" to help companies understand user feedback efficiently.
 The goal of this project is to build an AI model that automatically classifies text comments as "Positive" or "Negative." This tool helps companies and website owners understand user feedback quickly and efficiently.
 Background
 The Problem: The massive volume of comments on social media and e-commerce websites makes it impossible to read and analyze them manually.
